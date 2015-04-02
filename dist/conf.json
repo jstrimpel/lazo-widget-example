@@ -1,0 +1,9 @@
+{
+    "requirejs": {
+        "client": {
+            "paths": {
+                "d3": "app/client/d3/d3"
+            }
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+  "name": "lazo-widget-example",
+  "description": "Lazo widget example",
+  "version": "1.0.0",
+  "private": true,
+  "keywords": [
+    "lazojs",
+    "todomvc"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://gecgithub01.walmart.com/jstrimp/lazo-widget-example/blob/master/LICENSE"
+    }
+  ],
+  "author": {
+    "name": "Jason Strimpel",
+    "email": "jstrimpel@gmail.com"
+  },
+  "bugs": {
+    "url": "https://gecgithub01.walmart.com/jstrimp/lazo-widget-example/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gecgithub01.walmart.com/jstrimp/lazo-widget-example.git"
+  },
+  "github": "https://gecgithub01.walmart.com/jstrimp/lazo-widget-example",
+  "dependencies": {
+    "lazo": "2.0.8-alpha"
+  },
+  "scripts": {
+    "start": "node ./node_modules/lazo/bin/lazo start dist"
+  },
+  "maintainers": [
+    {
+      "name": "Jason Strimpel",
+      "email": "jstrimpel@gmail.com"
+    }
+  ]
+}
