@@ -10,7 +10,7 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://gecgithub01.walmart.com/jstrimp/lazo-widget-example/blob/master/LICENSE"
+      "url": "https://github.com/jstrimpel/lazo-widget-example/blob/master/LICENSE"
     }
   ],
   "author": {
@@ -18,13 +18,13 @@
     "email": "jstrimpel@gmail.com"
   },
   "bugs": {
-    "url": "https://gecgithub01.walmart.com/jstrimp/lazo-widget-example/issues"
+    "url": "https://github.com/jstrimpel/lazo-widget-example/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://gecgithub01.walmart.com/jstrimp/lazo-widget-example.git"
+    "url": "https://github.com/jstrimpel/lazo-widget-example.git"
   },
-  "github": "https://gecgithub01.walmart.com/jstrimp/lazo-widget-example",
+  "github": "https://github.com/jstrimpel/lazo-widget-example",
   "dependencies": {
     "lazo": "2.0.8-alpha"
   },
